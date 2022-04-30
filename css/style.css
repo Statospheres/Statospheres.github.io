@@ -52,7 +52,7 @@ html, body {
 .content-header {
     font-family: 'Rubik', sans-serif;
     font-weight: 700;
-    font-size: 96px;
+    font-size: 82px;
     color: white;
 }
 
@@ -123,6 +123,7 @@ html, body {
     background: linear-gradient(to bottom, #7BDDFF, #5F1C93);
 
 }
+
 
 .card {
   background: #020023 !important;
