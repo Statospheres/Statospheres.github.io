@@ -1,0 +1,136 @@
+html, body {
+    height: 100%;
+    font-size: 1rem;
+    background: #020023 !important;
+    overflow-x: hidden;
+}
+
+.btn-trns {
+    background-color: rgba(36, 35, 36, 0.35) !important;
+}
+
+.gradientBG {
+    background: rgb(123,221,255);
+    background: linear-gradient(229deg, rgba(123,221,255,1) 0%, rgba(95,28,147,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+}
+
+.waves-pull {
+    margin-top: -40px;
+}
+
+.img-icon {
+    max-width: 55% !important;
+}
+
+.icons-title-margin {
+    margin-top: -40px !important;
+    margin-bottom: 35px !important;
+}
+
+.sub-title {
+    font-size: 38px !important;
+}
+
+.hero-title {
+    font-size: 128px !important;
+}
+
+.hero-img {
+    max-width: 150% !important;
+}
+
+.widow-image {
+    max-height: 400% !important;
+    margin-left: -270px !important;
+    margin-bottom: -400px !important;
+}
+
+.content-header {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 96px;
+    color: white;
+}
+
+.emblems-section-text {
+    margin-top: -175px !important;
+    z-index: 1;
+}
+
+.emblems-section-text-bottom {
+    z-index: 1;
+}
+
+.emblems-section {
+    margin-top: -140px !important;
+    z-index: 1;
+    text-align: center;
+}
+
+.small-content {
+    margin-top: -1rem !important;
+}
+
+.img-logo {
+    max-width: 100% !important;
+}
+
+.content-sub {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: white;
+}
+
+.text-shadow {
+    text-shadow: 3px 2px black;
+}
+
+.emblems-sub-text-margin {
+    margin-top: -65px;
+}
+
+.content-sub-small {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: grey;
+}
+
+.team-sub {
+    font-size: 26px !important;
+    font-weight: 300;
+}
+
+.icon-sub {
+    font-size: 18px !important;
+    font-weight: 300;
+}
+
+.team-head {
+    font-size: 40px !important;
+    font-weight: 300;
+}
+
+.profile-pic {
+    max-width: 164px !important;
+    padding: 4px;
+    background-clip: content-box; /* support: IE9+ */
+    background: linear-gradient(to bottom, #7BDDFF, #5F1C93);
+
+}
+
+.card {
+  background: #020023 !important;
+  width: 420px;
+  height: 302px;
+}
+
+.card-img-top {
+    width: 420px;
+    height: 302px;
+}
